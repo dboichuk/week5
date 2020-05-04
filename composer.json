@@ -1,0 +1,14 @@
+{
+  "name": "chunhai/328/week5",
+  "authors": [
+
+    {
+      "name": "Dmytro Boichuk",
+      "email": "dboichuk@mail.greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
